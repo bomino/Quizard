@@ -5,7 +5,7 @@
 
 A comprehensive web application for training and assessing forklift operators on safety protocols and operational procedures, with certification management and advanced analytics.
 
-![Forklift Training App Screenshot](assets/app_screenshot.png)
+![Forklift Training App Screenshot](./assets/app_screenshot.png)
 
 ## Features
 
